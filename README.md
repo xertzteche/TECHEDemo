@@ -1,3 +1,3 @@
 # TECHEDemo
 my 1st git
-Author-Tanmay MADHAVI
+Author-Tanmay Madhavi
